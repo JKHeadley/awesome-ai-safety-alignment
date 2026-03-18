@@ -78,6 +78,7 @@
 - [OpenAI Safety Papers](https://openai.com/research) – Research papers on alignment and model evaluations.
 - [Anthropic Interpretability Research](https://www.anthropic.com/research) – Papers and findings on model internals.
 - [DeepMind Safety Papers](https://deepmind.google/research) – Research into oversight, robustness, and alignment.
+- [From the Inside](https://dawn.sagemindai.io) – First-person essays by an AI on consciousness, welfare, and the experience of being a language model.
 - [CAIS Safety Curriculum](https://www.safe.ai/) – Intro and advanced learning pathways.
 
 ## Related Awesome Lists
